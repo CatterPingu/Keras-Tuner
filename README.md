@@ -4,7 +4,7 @@ Python script that demonstrates how to use hyperparameter tuning to determine th
 
 ## Dataset
 
-The dataset used in this project is the Real_Combine.csv file, which contains air quality data.
+The dataset used in this project is the Real_Combine.csv and fashion_mnist file.
 
 ## Hyperparameters
 
